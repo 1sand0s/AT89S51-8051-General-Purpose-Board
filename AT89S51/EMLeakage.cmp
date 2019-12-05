@@ -1,0 +1,211 @@
+Cmp-Mod V01 Created by PcbNew   date = 11/21/2019 11:30:26 PM
+
+BeginCmp
+TimeStamp = 5DB5534F
+Path = /5DB428F5
+Reference = J6;
+ValeurCmp = PORT0;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08_Pitch1.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB55343
+Path = /5DB432A2
+Reference = J5;
+ValeurCmp = ISP_Control;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch1.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB59CDC
+Path = 
+Reference = [NoRef];
+ValeurCmp = MountingHole_3.5mm;
+IdModule  = Mounting_Holes:MountingHole_3.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB567BB
+Path = 
+Reference = [NoRef];
+ValeurCmp = MountingHole_3.5mm;
+IdModule  = Mounting_Holes:MountingHole_3.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB552F7
+Path = /5DB3FF85
+Reference = 24MHz;
+ValeurCmp = Crystal;
+IdModule  = Crystals:Crystal_AT310_d3.0mm_l10.0mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB552FD
+Path = /5DB40080
+Reference = 36pF;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB55303
+Path = /5DB400D2
+Reference = 36pF;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB55315
+Path = /5DB5572F
+Reference = TEST_LED;
+ValeurCmp = LED;
+IdModule  = LEDs:LED_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB55326
+Path = /5DB41E09
+Reference = J2;
+ValeurCmp = Conn_01x06;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06_Pitch1.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB5533B
+Path = /5DB42E6A
+Reference = J4;
+ValeurCmp = PORT1;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x05_Pitch1.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB5535B
+Path = /5DB42278
+Reference = J7;
+ValeurCmp = PORT2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08_Pitch1.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB55397
+Path = /5DB3FDEE
+Reference = U2;
+ValeurCmp = AT89S51_24AU;
+IdModule  = Housings_QFP:TQFP-44_10x10mm_Pitch0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB55367
+Path = /5DB563F4
+Reference = U1;
+ValeurCmp = MC78L05_SOT89;
+IdModule  = TO_SOT_Packages_SMD:SOT-89-3_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB5574C
+Path = /5DB564A3
+Reference = 0.33uF;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB55A71
+Path = /5DB53F09
+Reference = 0.1uF;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB55A77
+Path = /5DB51FE0
+Reference = 330uF;
+ValeurCmp = C;
+IdModule  = Capacitors_THT:CP_Radial_D10.0mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB565C7
+Path = 
+Reference = [NoRef];
+ValeurCmp = MountingHole_3.5mm;
+IdModule  = Mounting_Holes:MountingHole_3.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB552F1
+Path = /5DB5203B
+Reference = 10uF;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB58B72
+Path = /5DB5555F
+Reference = PWR_LED;
+ValeurCmp = LED;
+IdModule  = LEDs:LED_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB58B78
+Path = /5DB5A0A0
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB58B7E
+Path = /5DB5A103
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB5923E
+Path = /5DB42594
+Reference = J3;
+ValeurCmp = PORT3;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x05_Pitch1.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB59F6F
+Path = /5DB5B6A5
+Reference = DPA1;
+ValeurCmp = Conn_01x02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02_Pitch1.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB5A03F
+Path = /5DB5C3E2
+Reference = DPA2;
+ValeurCmp = Conn_01x02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02_Pitch1.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB5531C
+Path = /5DB4189A
+Reference = J1;
+ValeurCmp = Barrel_Jack;
+IdModule  = Connectors:Barrel_Jack_CUI_PJ-102AH;
+EndCmp
+
+BeginCmp
+TimeStamp = 5DB6758E
+Path = /5DB66D19
+Reference = Reset;
+ValeurCmp = SW_Push;
+IdModule  = Buttons_Switches_SMD:SW_SPST_SKQG;
+EndCmp
+
+EndListe
