@@ -5,6 +5,8 @@
 <h2> What is it? </h2>
 This is a breakout for AT89S51 that I used during my research at UT Austin. The objective was to study the vulnerability of firmware running on the AT89S51 to Electromagnetic (EM) Side-Channel attacks. 
 
+<img src="Soldered.jpg" width="800" height="600" /> 
+
 <h2> What we accomplished </h2>
 
 1. We were successful in writing an instruction dissassembler that was able to dissassemble firmware with up to 98% accuracy using the EM side-channel
